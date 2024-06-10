@@ -77,6 +77,7 @@ section {
 
 .arrow-img{
   margin:20px 0;
+  width: 30%;
 }
 
 .currency-box{
@@ -92,6 +93,9 @@ color: #777777;
 font-size: 15px;
 font-weight: 400;
 }
-.currecy-value{
+.currecy-value
+.currecy-value-real{
 color: #555555;
+font-weight: 700;
+font-size: 20px;
 }
